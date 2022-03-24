@@ -1,0 +1,10 @@
+.actions {
+    display: flex;
+    align-items: center;
+}
+
+.actions div:nth-child(2){
+    margin: 0 15px;
+}
+
+

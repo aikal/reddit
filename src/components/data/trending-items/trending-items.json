@@ -1,0 +1,42 @@
+[
+    {
+      "image_src": "assets/images/new11.webp",
+      "title": "NATO",
+      "description": "NATO head tells Russia it cannot win nuclear war",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "news and more"
+      }
+    },
+  
+    {
+      "image_src": "assets/images/new12.webp",
+      "title": "Vladimir Putin",
+      "description": "Allowing Russian President Vladimir Putin to sit with other world leaders at this year's G20 summit would be \"a step too far\", said Australia's Prime Minister Scott Morrison. Putin has already been invited to the G20 summit in November by this year's host Jakarta, and he intends to be there",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "news and mores"
+      }
+    },
+  
+    {
+      "image_src": "assets/images/new13.webp",
+      "title": "Madeleine Albrightt",
+      "description": "Madeleine Albright, first female US secretary of state, dies",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "news and more"
+      }
+    },
+  
+    {
+      "image_src": "assets/images/new14.webp",
+      "title": "North Korea",
+      "description": "North Korea tests banned intercontinental missile",
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "news and more"
+      }
+    }
+  ]
+  

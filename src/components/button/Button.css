@@ -1,0 +1,28 @@
+.button {
+    padding: 5px 30px;
+    border: 1px solid var(--primary-color);
+    border-radius: 14px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.primary-button {
+    color: white;
+    background-color: var(--primary-color);
+}
+
+.secondary-button {
+    color: var(--primary-color);
+}
+
+.tertiary-button {
+    color: var(--primary-color);
+    background-color: #F6F7F8;
+    padding: 7px 5px;
+    border: none
+}
+
+.tertiary-button:hover {
+    background-color: rgb(235, 235, 235);
+}
